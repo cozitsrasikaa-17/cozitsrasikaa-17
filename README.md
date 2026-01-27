@@ -2,7 +2,7 @@
 
 🎓 Computer Science student with a strong interest in **Cybersecurity & Web Security**  
 🛡️ Learning through hands-on projects and practical security demos  
-💻 Tech stack: React, JavaScript, Python, HTML, CSS ,kali,meta2,ubuntu,sql
+💻 Tech stack: React, JavaScript, Python, HTML, CSS ,kali,meta2,ubuntu,sql,wireshark
 
 ## 🔐 Cybersecurity Projects
 - **Phishing Email Detector (Rule-Based Demo)**  
