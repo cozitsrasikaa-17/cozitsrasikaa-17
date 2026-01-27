@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Rasika 👋
 
-<!--
-**cozitsrasikaa-17/cozitsrasikaa-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student with a strong interest in **Cybersecurity & Web Security**  
+🛡️ Learning through hands-on projects and practical security demos  
+💻 Tech stack: React, JavaScript, Python, HTML, CSS ,kali,meta2,ubuntu,sql
 
-Here are some ideas to get you started:
+## 🔐 Cybersecurity Projects
+- **Phishing Email Detector (Rule-Based Demo)**  
+  Flags common phishing patterns such as urgent language, suspicious domains, and mismatched links.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Password Strength Checker**  
+  Evaluates password strength, shows crack-time estimates, and generates strong passwords.
+
+## 🚀 Currently Learning
+- Phishing & social engineering detection  
+- Web security fundamentals  
+- Secure coding practices  
+
+## 🔗 Connect with me
+-www.linkedin.com/in/rasika-subburaj-215369332
