@@ -93,10 +93,9 @@ A web-based security monitoring dashboard designed to process Suricata IDS alert
 
 
 
-
 <div align="center">
 
-### 🛡️ RASIKA | CYBERSECURITY TERMINAL
+### 🛡️ RASIKA | CYBERSECURITY PROFILE
 
 <code>profile.sh --live</code>
 
@@ -104,53 +103,47 @@ A web-based security monitoring dashboard designed to process Suricata IDS alert
 
 <table>
 <tr>
-<td width="40%" align="center" valign="middle">
+<td colspan="2">
 
-<h3>🌐 VISUAL.MAP</h3>
+### 🖥️ SYSTEM.INFO
 
-<img src="./rasika-ascii-blink.gif" width="280" alt="Rasika ASCII Portrait">
-
-<br>
-
-<code>IDS / SECURITY NETWORK</code>
+🔴 **LIVE** &nbsp; | &nbsp; 🟢 **PROFILE ONLINE**
 
 </td>
+</tr>
 
-<td width="60%" valign="top">
+<tr><td><b>Subject</b></td><td>Rasika</td></tr>
+<tr><td><b>Role</b></td><td>Aspiring SOC Analyst / Ethical Hacker</td></tr>
+<tr><td><b>Origin</b></td><td>Singapore</td></tr>
+<tr><td><b>Education</b></td><td>Cybersecurity · UOW @ SIM</td></tr>
+<tr><td><b>Status</b></td><td>Learning • Building • Researching</td></tr>
+<tr><td><b>Core.Languages</b></td><td>Python • Java • JavaScript • SQL</td></tr>
+<tr><td><b>Core.Web</b></td><td>HTML5 • CSS3</td></tr>
+<tr><td><b>Core.Security</b></td><td>Kali Linux • Wireshark • Suricata • Metasploit • Ubuntu</td></tr>
+<tr><td><b>Core.Frontend</b></td><td>React.js</td></tr>
+<tr><td><b>Core.Backend</b></td><td>Node.js • FastAPI</td></tr>
+<tr><td><b>Core.Database</b></td><td>MongoDB • PostgreSQL • SQLite</td></tr>
+<tr><td><b>Core.DevOps</b></td><td>Docker • Git • GitHub • VS Code • VirtualBox</td></tr>
+<tr><td><b>Core.Platform</b></td><td>Kaggle • Vercel</td></tr>
+<tr><td><b>Core.Academic</b></td><td>DSA • DBMS • System Security • Software Methodology</td></tr>
+<tr><td><b>Project</b></td><td>Human-in-the-Loop Intrusion Detection Dashboard</td></tr>
+<tr><td><b>Project.Status</b></td><td>In Development · 2026–2027</td></tr>
 
-<h3>🖥️ SYSTEM.INFO</h3>
+<tr>
+<td colspan="2">
 
-🔴 LIVE | 🟢 PROFILE ONLINE
-
-<pre>
-Subject: Rasika
-Role: Aspiring SOC Analyst
-      / Ethical Hacker
-Origin: Singapore
-Education: UOW @ SIM
-Status: Learning & Building
-
-Languages: Python, Java,
-           JavaScript, SQL
-Security: Suricata, Kali,
-          Wireshark, Metasploit
-Frontend: React.js
-Backend: Node.js, FastAPI
-Database: MongoDB,
-          PostgreSQL, SQLite
-DevOps: Docker, Git, GitHub
-Tools: VS Code, VirtualBox
-Platform: Kaggle, Vercel
-
-FYP: Human-in-the-Loop IDS
-Status: In Development
-</pre>
-
-🟢 SOC / BLUE TEAM — LEARNING MODE
+🟢 **SOC / BLUE TEAM — LEARNING MODE**
 
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
 
 
 ## 🔗 Connect with me
