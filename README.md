@@ -92,5 +92,66 @@ A web-based security monitoring dashboard designed to process Suricata IDS alert
 🌐 **Project Website:** Coming Soon
 
 
+
+
+<div align="center">
+
+### 🛡️ RASIKA | CYBERSECURITY TERMINAL
+
+<code>profile.sh --live</code>
+
+</div>
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<h3>🌐 VISUAL.MAP</h3>
+
+<img src="./rasika-ascii-blink.gif" width="280" alt="Rasika ASCII Portrait">
+
+<br>
+
+<code>IDS / SECURITY NETWORK</code>
+
+</td>
+
+<td width="60%" valign="top">
+
+<h3>🖥️ SYSTEM.INFO</h3>
+
+🔴 LIVE | 🟢 PROFILE ONLINE
+
+<pre>
+Subject: Rasika
+Role: Aspiring SOC Analyst
+      / Ethical Hacker
+Origin: Singapore
+Education: UOW @ SIM
+Status: Learning & Building
+
+Languages: Python, Java,
+           JavaScript, SQL
+Security: Suricata, Kali,
+          Wireshark, Metasploit
+Frontend: React.js
+Backend: Node.js, FastAPI
+Database: MongoDB,
+          PostgreSQL, SQLite
+DevOps: Docker, Git, GitHub
+Tools: VS Code, VirtualBox
+Platform: Kaggle, Vercel
+
+FYP: Human-in-the-Loop IDS
+Status: In Development
+</pre>
+
+🟢 SOC / BLUE TEAM — LEARNING MODE
+
+</td>
+</tr>
+</table>
+
+
 ## 🔗 Connect with me
 -www.linkedin.com/in/rasika-subburaj-215369332
