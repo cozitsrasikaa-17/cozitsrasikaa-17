@@ -93,51 +93,6 @@ A web-based security monitoring dashboard designed to process Suricata IDS alert
 
 
 
-<div align="center">
-
-### 🛡️ RASIKA | CYBERSECURITY PROFILE
-
-<code>profile.sh --live</code>
-
-</div>
-
-<table>
-<tr>
-<td colspan="2">
-
-### 🖥️ SYSTEM.INFO
-
-🔴 **LIVE** &nbsp; | &nbsp; 🟢 **PROFILE ONLINE**
-
-</td>
-</tr>
-
-<tr><td><b>Subject</b></td><td>Rasika</td></tr>
-<tr><td><b>Role</b></td><td>Aspiring SOC Analyst / Ethical Hacker</td></tr>
-<tr><td><b>Origin</b></td><td>Singapore</td></tr>
-<tr><td><b>Education</b></td><td>Cybersecurity · UOW @ SIM</td></tr>
-<tr><td><b>Status</b></td><td>Learning • Building • Researching</td></tr>
-<tr><td><b>Core.Languages</b></td><td>Python • Java • JavaScript • SQL</td></tr>
-<tr><td><b>Core.Web</b></td><td>HTML5 • CSS3</td></tr>
-<tr><td><b>Core.Security</b></td><td>Kali Linux • Wireshark • Suricata • Metasploit • Ubuntu</td></tr>
-<tr><td><b>Core.Frontend</b></td><td>React.js</td></tr>
-<tr><td><b>Core.Backend</b></td><td>Node.js • FastAPI</td></tr>
-<tr><td><b>Core.Database</b></td><td>MongoDB • PostgreSQL • SQLite</td></tr>
-<tr><td><b>Core.DevOps</b></td><td>Docker • Git • GitHub • VS Code • VirtualBox</td></tr>
-<tr><td><b>Core.Platform</b></td><td>Kaggle • Vercel</td></tr>
-<tr><td><b>Core.Academic</b></td><td>DSA • DBMS • System Security • Software Methodology</td></tr>
-<tr><td><b>Project</b></td><td>Human-in-the-Loop Intrusion Detection Dashboard</td></tr>
-<tr><td><b>Project.Status</b></td><td>In Development · 2026–2027</td></tr>
-
-<tr>
-<td colspan="2">
-
-🟢 **SOC / BLUE TEAM — LEARNING MODE**
-
-</td>
-</tr>
-</table>
-
 
 
 
